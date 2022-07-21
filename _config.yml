@@ -3,13 +3,12 @@ logo: /assets/img/purna.jpg
 description:
   <p align="center">
   <a href="https://www.linkedin.com/in/purnachander-gajjalla-7282a211/">LinkedIn</a> |
-  <a hred="https://www.github.com/gpacju/">GitHub</a>
+  <a href="https://www.github.com/gpacju/">GitHub</a>
   
   <br>
   I'm working on Demand Forecasting and Predictive Modelling using classical machine learning approaches.
   I also work on processing Big data by building and deploying ETL pipelines.
   <br>
   </p>
-show_downloads: true
-google_analytics:
+
 theme: jekyll-theme-minimal
